@@ -61,7 +61,7 @@ public class conditional2 {
 		
 	}
 	
-	else if (menuPrice <= 12000) 
+	else if (menuPrice <= 12000) !
 	{
 		
 	}
